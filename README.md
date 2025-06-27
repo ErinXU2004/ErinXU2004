@@ -2,6 +2,14 @@
 
 I'm currently a B.S./M.S. student in Electrical and Computer Engineering at the University of Michigan, with a strong interest in SoC architecture, RTL design, and custom instruction sets.
 
+<p align="center">
+  <img src="docs/SD1.jpg" width="200"/> 
+  <img src="docs/SD2.jpg" width="200"/>
+  <br>
+  <img src="docs/UROP.jpg" width="200"/>
+  <img src="docs/FineDining.jpg" width="200"/>
+</p>
+
 
 ---
 
