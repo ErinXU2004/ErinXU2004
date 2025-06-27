@@ -39,6 +39,4 @@ I'm currently a B.S./M.S. student in Electrical and Computer Engineering at the 
 
 - 💻 GitHub: [ErinXU2004](https://github.com/ErinXU2004)  
 - 📬 Email: erinhua@umich.edu  
-- 🗂 Resume: [Erin Xu – PhD Resume (PDF)](link-to-your-resume.pdf)  
-- 🌐 Portfolio (Coming soon...)
 
