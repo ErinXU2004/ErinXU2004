@@ -36,7 +36,7 @@ A **PDK-agnostic layout automation framework** for analog IC design.
 
 ---
 
-### [**CalCore-ISA**](https://github.com/ErinXU2004/CalCore-ISA-Project)  
+### [**CalCore-ISA**](https://github.com/ErinXU2004/CalCore-ISA)  
 A **custom RISC-V ISA extension** implementing health-related calculations directly in hardware.  
 - RTL implemented in **Verilog**, adding instructions for **BMI** and **BMR** computation.  
 - Designed custom **I-type** and **R-type** instructions, with memory-mapped user records.  
